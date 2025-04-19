@@ -1,11 +1,12 @@
 {
   "name": "dev.namelessnanashi.camerablocker",
   "displayName": "AntiCamera",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A camera blocker shader prefab for VRChat",
   "dependencies": {},
   "gitDependencies": {},
   "vpmDependencies": {
+    "com.vrchat.base": "3x.x",
     "com.vrchat.avatars": "3.x.x",
     "com.vrcfury.vrcfury": "1.x.x"
   },
