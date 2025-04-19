@@ -7,7 +7,7 @@
   "gitDependencies": {},
   "vpmDependencies": {
     "com.vrchat.avatars": "3.x.x",
-    "com.vrcfury.vrcfury": "1.xxxx.x"
+    "com.vrcfury.vrcfury": "1.x.x"
   },
   "author": {
     "name": "NanashiTheNameless (Upstream: orels1)",
