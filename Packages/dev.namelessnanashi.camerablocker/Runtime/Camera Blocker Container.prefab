@@ -437,7 +437,7 @@ MonoBehaviour:
           version: 1
           fileID: 0
           guid: 
-          id: 55141192c48f7784cbd2ba8e8af714d6|Packages/dev.namelessnanashi.dev.namelessnanashi.camerablocker/Runtime/NoCamera.png
+          id: 55141192c48f7784cbd2ba8e8af714d6|Packages/dev.namelessnanashi.camerablocker/Runtime/NoCamera.png
           objRef: {fileID: 2800000, guid: 55141192c48f7784cbd2ba8e8af714d6, type: 3}
         enableDriveGlobalParam: 0
         driveGlobalParam: 
