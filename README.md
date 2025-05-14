@@ -1,4 +1,4 @@
-# CameraBlockerVRC Modded By NamelessNanahsi
+# CameraBlockerVRC Modded By NamelessNanashi
 
 ## Original by orels1
 
