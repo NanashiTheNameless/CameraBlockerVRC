@@ -43,7 +43,7 @@ jobs:
       - name: Checkout Automation Repository
         uses: actions/checkout@v4
         with:
-          repository: vrchat-community/package-list-action
+          repository: NanashiTheNameless/package-list-action-custom
           path: ${{ env.pathToCi }}
           clean: false
 
