@@ -4,7 +4,7 @@
 
 ## Installation
 
-- [Open the listing website](https://CameraBlockerVRC.namelessnanashi.dev/) and download the package in a format you prefer
+- [Open the listing website](https://CameraBlockerVRC.NamelessNanashi.dev/) and download the package in a format you prefer
 - Either Drag & Drop the `.unitypackage` into your project if you downloaded that
 - **OR** unpack the Zip file into your `Packages` folder, e.g. `C:\UnityProjects\MyProject\Packages\dev.namelessnanashi.camerablocker`
 - Check out the package-specific Usage section in the relevant Readme, e.g. Project View in Unity -> Packages -> AntiCamera -> README
