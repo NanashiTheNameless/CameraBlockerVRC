@@ -1,6 +1,6 @@
 import { baseLayerLuminance, StandardLuminance } from 'https://unpkg.com/@fluentui/web-components';
 
-const LISTING_URL = "{{ listingInfo.Url }}";
+const LISTING_URL = "https://camerablockervrc.namelessnanashi.dev/index.json" // "{{ listingInfo.Url }}";
 
 const PACKAGES = {
 {{~ for package in packages ~}}
