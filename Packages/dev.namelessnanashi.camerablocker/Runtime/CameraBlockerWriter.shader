@@ -5,7 +5,7 @@
 	}
 	SubShader
 	{
-		Tags { "RenderType"="Opaque" "Queue"="Overlay+998" }
+		Tags { "RenderType"="Opaque" "Queue"="Overlay+28765" "VRCFallback" = "Hidden" }
 		Blend SrcAlpha OneMinusSrcAlpha
 		Stencil {
 			Ref 69

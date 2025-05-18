@@ -5,7 +5,7 @@
 	}
 	SubShader
 	{
-		Tags { "RenderType"="Opaque" "Queue"="Overlay+999" }
+		Tags { "RenderType"="Opaque" "Queue"="Overlay+28766" "VRCFallback" = "Hidden" }
 		Stencil {
 			Ref 69
 			Comp Always

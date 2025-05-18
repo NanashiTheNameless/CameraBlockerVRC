@@ -6,7 +6,7 @@
 	}
 	SubShader
 	{
-		Tags { "RenderType"="Opaque" "Queue"="Overlay+1000" }
+		Tags { "RenderType"="Opaque" "Queue"="Overlay+28767" "VRCFallback" = "Hidden" }
 		ZTest Always
 		Stencil {
 			Ref 69

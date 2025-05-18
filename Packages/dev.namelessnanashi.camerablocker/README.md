@@ -7,15 +7,15 @@
 - [Open the listing website](https://CameraBlockerVRC.NamelessNanashi.dev/) and download the package in a format you prefer
 - Either Drag & Drop the `.unitypackage` into your project if you downloaded that
 - **OR** unpack the Zip file into your `Packages` folder, e.g. `C:\UnityProjects\MyProject\Packages\dev.namelessnanashi.camerablocker`
-- Check out the package-specific Usage section in the relevant Readme, e.g. Project View in Unity -> Packages -> AntiCamera -> README
+- Check out the package-specific Usage section in the relevant Readme, e.g. Project View in Unity -> Packages -> CameraBlockerVRC -> README
 
 ## Package included
 
-- Camera Blocker (Anticamera): A simple shader to make an area of the scene render completely black in player cameras. Helpful for game worlds and other scenarios where you want to disallow "spying"
+- Camera Blocker (CameraBlockerVRC): A simple shader to make an area of the scene render completely black in player cameras. Helpful for game worlds and other scenarios where you want to disallow "spying"
 
 ## Usage
 
-- Drag and Drop the Camera Blocker Container prefab from `Runtime` folder into your scene
+- Drag and Drop the Camera Blocker Container prefab in the main folder (or from the `Runtime` folder into your scene)
 - Position and scale to fit around the area you want to be hidden
 - There is a visualizer cube in the prefab which gets removed on building your world, you can keep it if it helps you position the object, or disable it if you don't need it
 
