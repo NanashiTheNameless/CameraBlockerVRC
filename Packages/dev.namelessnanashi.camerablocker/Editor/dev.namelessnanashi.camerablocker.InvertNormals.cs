@@ -28,7 +28,7 @@ public class InvertNormals : MonoBehaviour
             if (shared == null) continue;
 
             string meshName = shared.name;
-            if (meshName.EndsWith("_Inverted")) continue; // Skip already inverted
+            if (meshName.EndsWith("_Inverted")) continue;
 
             Mesh newMesh = Instantiate(shared);
             InvertMesh(newMesh);
@@ -57,7 +57,7 @@ public class InvertNormals : MonoBehaviour
 
         EditorApplication.delayCall += () =>
         {
-            foreach (var obj in Object.FindObjectsOfType<InvertNormals>(true)) // include disabled objects
+            foreach (var obj in Object.FindObjectsOfType<InvertNormals>(true))
             {
                 obj.ApplyInversionIfNeeded();
             }
