@@ -1,7 +1,7 @@
 {
   "name": "dev.namelessnanashi.camerablocker",
   "displayName": "CameraBlockerVRC",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "A camera blocker shader prefab for VRChat",
   "dependencies": {},
   "gitDependencies": {},
