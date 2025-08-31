@@ -2,10 +2,11 @@
 
 ## Supported Versions
 
-| Version                | Supported          |
-| -----------------------| ------------------ |
+| Version               | Supported         |
+|------------------------|--------------------|
 | Main Branch            | :white_check_mark: |
 | Latest Version         | :white_check_mark: |
+| Upstream repo          | :x:                |
 | Other Branch(es)       | :x:                |
 | External forks         | :x:                |
 | Previous versions      | :x:                |
