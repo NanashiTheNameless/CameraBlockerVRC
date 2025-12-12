@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'Packages/dev.namelessnanashi.camerablocker/package.json'
+      - 'Packages/dev.namelessnanashi.camerablocker/**'
 
 jobs:
 
