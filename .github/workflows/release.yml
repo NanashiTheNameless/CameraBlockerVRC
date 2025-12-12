@@ -81,7 +81,7 @@ jobs:
       
       # Publish the Release to GitHub
       - name: Make Release
-        uses: softprops/action-gh-release@db560141c659d99bd86de129a0070ee5c0577390
+        uses: softprops/action-gh-release@60cfd9a691d814dcf0d094598101c5cb61cd1646
         with:
           files: |
             ${{ env.zipFile }}
