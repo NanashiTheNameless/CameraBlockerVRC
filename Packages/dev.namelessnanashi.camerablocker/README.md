@@ -42,7 +42,7 @@
 ## Technical Details
 
 - The core idea is to render over everything but only INSIDE some area, which is a bit more non-trivial than you might think. So I decided to use stencils to make it work
-- Blocker Writer writes stencil id 69 over everything while being completely transparent and invisible to anything but the handheld cameras. It uses Cull Front to only render the backfaces (as I'm using the detault cube mesh which has normals facing outward
+- Blocker Writer writes stencil id 69 over everything while being completely transparent and invisible to anything but the handheld cameras. It uses Cull Front to only render the backfaces (as I'm using the default cube mesh which has normals facing outward)
 - Blocker Clearer renders one render queue later and writes stencil id 0 onto everything. It is also a default cube with Cull Back, so when looking from the outside, it will replace all those written 69s with 0s
 - Finally, blocker uses stencil id 69 to determine if it should render. If the stencil id is anything but 69 it will not render anything. It is rendered last in the order
 - All shaders have ZTest Always which make them always render on top of everything so that stencil ids propagate orrectly
