@@ -39,7 +39,7 @@ jobs:
 
       # Checkout Local Repository
       - name: Checkout
-        uses: actions/checkout@09d2acae674a48949e3602304ab46fd20ae0c42f
+        uses: actions/checkout@8e8c483db84b4bee98b60c0593521ed34d9990e8
 
       # Get the Package version based on the package.json file
       - name: Get Version
