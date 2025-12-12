@@ -17,4 +17,4 @@
 
 Please open an [Issue](<https://github.com/NanashiTheNameless/CameraBlockerVRC/issues>) or start a [PR](<https://github.com/NanashiTheNameless/CameraBlockerVRC/pulls>) if you have identified any issues!
 
-If you wish to disclose any vunerabilities you have found privately you may use [The Security Tab](<https://github.com/NanashiTheNameless/CameraBlockerVRC/security>).
+If you wish to disclose any vulnerabilities you have found privately you may use [The Security Tab](<https://github.com/NanashiTheNameless/CameraBlockerVRC/security>).
